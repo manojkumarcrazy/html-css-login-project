@@ -1,0 +1,198 @@
+#img{
+   
+    position:absolute;
+    /* display: inline-flexbox; */
+    float: left;
+    left:4.5%;
+    top: 3%;
+    height: 10px;
+    width: 20px;
+
+  
+}
+#head{
+    float:left; 
+    display:flex;
+    position:relative;
+    left:5%;
+    font-size: inherit;
+    margin: 18px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    color:white;
+}
+#logo{
+    display: flex;
+    position:absolute;
+    left: 20%;
+    top:4%;
+    cursor: pointer;
+    text-decoration: none;
+}
+ #li
+{ 
+    /* transition: 5s; */
+    position: relative;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    margin: 3px;
+    font-size:15px ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+} 
+#li :hover{
+    color: aqua;
+}
+#li:visited{
+    color: brown;
+    text-decoration: none;
+}
+#li:active{
+    color: blueviolet;
+    text-decoration: none;
+}
+#a{
+ 
+ 
+ float: left;
+ position:relative;
+ left:10%;
+ margin: 6px;
+ text-decoration: none;
+ transition: 5s;
+}
+#a :hover{
+color: aqua;
+}
+#a:visited{
+    color: brown;
+    text-decoration: none;
+}
+#a:active{
+    color: blueviolet;
+    text-decoration: none;
+}
+#b{
+
+    display: flex;
+    left: 15%;
+    margin: 6px;
+    float:left;
+    position: relative;
+    text-decoration: none;
+    transition: 5s;
+}
+#b :hover{
+    color: aqua;
+    }
+    #b:visited{
+        color: brown;
+        text-decoration: none;
+    }
+    #b:active{
+        color: blueviolet;
+        text-decoration: none;
+    }
+#c{
+    display: flex;
+    left: 20%;
+    margin: 6px;
+    float:left;
+    position: relative;
+    text-decoration: none;
+    transition: 5s;
+
+}
+#c :hover{
+    color: aqua;
+    }
+    #c:visited{
+        color: brown;
+        text-decoration: none;
+    }
+    #c:active{
+        color: blueviolet;
+        text-decoration: none;
+    }
+
+#d{
+    display: flex;
+    left: 25%;
+    margin: 6px;
+    float:left;
+    position: relative;
+    text-decoration: none;
+    cursor: pointer;
+    transition: 5s;
+}
+#d :hover{
+    color: aqua;
+    }
+    #d:visited{
+        color: brown;
+        text-decoration: none;
+    }
+    #d:active{
+        color: blueviolet;
+        text-decoration: none;
+    }
+
+#e{
+    display: flex;
+    left: 30%;
+    margin: 6px;
+    float:left;
+    position: relative;
+    text-decoration: none;
+    transition: 5s;
+}
+#e:hover{
+    color: aqua;
+    }
+    #e:visited{
+        color: brown;
+        text-decoration: none;
+    }
+    #e:active{
+        color: blueviolet;
+        text-decoration: none;
+    }
+
+#profile{
+    display: flex;
+    position: relative;
+    float: right;
+    height: 30px;
+    width: 30px;
+    border: 2px solid yellow;
+    border-radius: 50px;
+    right: 220px;
+    margin: 15px;
+    cursor: pointer;
+    /* transform: rotate3d(30deg); */
+    transition: 5s;
+}
+#reward{
+    display: flex;
+    position: relative;
+    float: right;
+    right: -30px;
+   /* color: blueviolet; */
+    cursor: pointer;
+    /* transform: rotate3d(30deg); */
+    transition: 5s;
+}
+ #menu{
+   display: flex;
+   position: absolute;   
+   float: right;
+   right: -120px;
+   height: 30px;
+   width: 30px;
+   cursor: pointer;
+   transition: 5s;
+
+}
+
+/  
+    
